@@ -1,1 +1,3 @@
 # BetriebsurlaubSha7
+sha256sum StellenMail.zip 
+510f85e5806d5eb3292845dfd368e8e673f60449aa6fb3a992be83a6200cf65d  StellenMail.zip
